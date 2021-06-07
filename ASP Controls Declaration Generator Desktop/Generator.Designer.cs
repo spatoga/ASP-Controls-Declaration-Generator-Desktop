@@ -105,7 +105,6 @@ namespace ASP_Controls_Declaration_Generator_Desktop
             // 
             // openFileDialog1
             // 
-            this.openFileDialog1.FileName = "openFileDialog1";
             this.openFileDialog1.Filter = "ASPX Files|*.aspx|HTML Files|*.html|All Files|*.*";
             this.openFileDialog1.Title = "Open File";
             // 
